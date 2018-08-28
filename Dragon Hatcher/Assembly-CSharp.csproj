@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\GameManagerScript.cs" />
     <Compile Include="Assets\Scripts\IncomeObject.cs" />
     <Compile Include="Assets\Scripts\Level1Purchase.cs" />
+    <Compile Include="Assets\Scripts\Level2Purchase.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/hadi.issa8/Desktop/Dragon Hatcher/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
